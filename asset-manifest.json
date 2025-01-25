@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.8cee2a3d.css",
-    "main.js": "/static/js/main.e72140c1.js",
-    "static/js/488.9561f9b8.chunk.js": "/static/js/488.9561f9b8.chunk.js",
-    "static/media/bglarge.webp": "/static/media/bglarge.6f3e96d5873864f52fc0.webp",
-    "static/media/emillogo-comic-ink-170125.svg": "/static/media/emillogo-comic-ink-170125.dc9d2b5bbc446a6f6f1bd77fa541bdb2.svg",
-    "index.html": "/index.html",
-    "main.8cee2a3d.css.map": "/static/css/main.8cee2a3d.css.map",
-    "main.e72140c1.js.map": "/static/js/main.e72140c1.js.map",
-    "488.9561f9b8.chunk.js.map": "/static/js/488.9561f9b8.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.c479ba09.css",
+    "main.js": "/portfolio/static/js/main.eb0d2f41.js",
+    "static/js/488.9561f9b8.chunk.js": "/portfolio/static/js/488.9561f9b8.chunk.js",
+    "static/media/bglarge.webp": "/portfolio/static/media/bglarge.6f3e96d5873864f52fc0.webp",
+    "static/media/emillogo-comic-ink-170125.svg": "/portfolio/static/media/emillogo-comic-ink-170125.dc9d2b5bbc446a6f6f1bd77fa541bdb2.svg",
+    "index.html": "/portfolio/index.html",
+    "main.c479ba09.css.map": "/portfolio/static/css/main.c479ba09.css.map",
+    "main.eb0d2f41.js.map": "/portfolio/static/js/main.eb0d2f41.js.map",
+    "488.9561f9b8.chunk.js.map": "/portfolio/static/js/488.9561f9b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cee2a3d.css",
-    "static/js/main.e72140c1.js"
+    "static/css/main.c479ba09.css",
+    "static/js/main.eb0d2f41.js"
   ]
 }
