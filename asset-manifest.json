@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.3c6147d0.css",
-    "main.js": "/portfolio/static/js/main.b9d005d6.js",
+    "main.js": "/portfolio/static/js/main.609cb2e7.js",
     "static/js/488.9561f9b8.chunk.js": "/portfolio/static/js/488.9561f9b8.chunk.js",
     "static/media/bglarge.webp": "/portfolio/static/media/bglarge.6f3e96d5873864f52fc0.webp",
     "static/media/emillogo-comic-ink-170125.svg": "/portfolio/static/media/emillogo-comic-ink-170125.dc9d2b5bbc446a6f6f1bd77fa541bdb2.svg",
     "index.html": "/portfolio/index.html",
     "main.3c6147d0.css.map": "/portfolio/static/css/main.3c6147d0.css.map",
-    "main.b9d005d6.js.map": "/portfolio/static/js/main.b9d005d6.js.map",
+    "main.609cb2e7.js.map": "/portfolio/static/js/main.609cb2e7.js.map",
     "488.9561f9b8.chunk.js.map": "/portfolio/static/js/488.9561f9b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c6147d0.css",
-    "static/js/main.b9d005d6.js"
+    "static/js/main.609cb2e7.js"
   ]
 }
